@@ -1,0 +1,7 @@
+{
+  "date": "2025-03-10",
+  "application": "microservice-1",
+  "passed": 10,
+  "failed": 5,
+  "total": 15
+}
