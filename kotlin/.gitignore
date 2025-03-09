@@ -9,3 +9,9 @@
 *.swp
 *.swo
 *.class
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+*.iws
+.idea_modules/

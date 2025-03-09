@@ -10,3 +10,6 @@ go.sum
 # OS-specific files for Go/Kotlin projects
 *.swp
 *.swo
+
+# VSCode settings
+.vscode/

@@ -28,12 +28,6 @@ override.tf.json
 # VSCode settings
 .vscode/
 
-# IntelliJ IDEA settings
-.idea/
-*.iml
-*.iws
-.idea_modules/
-
 # OS-specific files
 .DS_Store
 Thumbs.db
