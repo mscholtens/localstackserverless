@@ -8,7 +8,7 @@
 # Crash log files
 crash.log
 
-# override files
+# Override files
 override.tf
 override.tf.json
 *_override.tf
@@ -37,24 +37,3 @@ override.tf.json
 # OS-specific files
 .DS_Store
 Thumbs.db
-
-# Go (Golang) specific
-# Build output
-/bin/
-/pkg/
-
-# Go workspace
-go.work
-go.sum
-
-# Kotlin specific
-# Kotlin build directory
-/build/
-
-# Gradle specific (often used with Kotlin)
-.gradle/
-
-# OS-specific files for Go/Kotlin projects
-*.swp
-*.swo
-*.class

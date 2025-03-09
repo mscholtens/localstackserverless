@@ -1,0 +1,11 @@
+# Kotlin specific
+# Kotlin build directory
+/build/
+
+# Gradle specific (often used with Kotlin)
+.gradle/
+
+# OS-specific files for Go/Kotlin projects
+*.swp
+*.swo
+*.class

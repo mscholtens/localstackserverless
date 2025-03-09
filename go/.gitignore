@@ -1,0 +1,12 @@
+# Go (Golang) specific
+# Build output
+/bin/
+/pkg/
+
+# Go workspace
+go.work
+go.sum
+
+# OS-specific files for Go/Kotlin projects
+*.swp
+*.swo
